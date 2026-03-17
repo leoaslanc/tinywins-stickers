@@ -2,15 +2,15 @@
   "version": 1,
   "packs": [
     {
-      "id": "test_pack",
-      "name": "Test Pack",
+      "id": "tiny_wins",
+      "name": "Tiny Wins",
       "stickerCount": 3,
-      "sizeBytes": 3094125,
-      "baseUrl": "https://tinywinssticker.vercel.app/stickers/test_pack",
+      "sizeBytes": 659015,
+      "baseUrl": "https://tinywinssticker.vercel.app/stickers/tiny_wins",
       "stickers": [
-        { "id": "test_pack_01", "name": "Test 01", "filename": "test_pack_01.png" },
-        { "id": "test_pack_02", "name": "Test 02", "filename": "test_pack_02.png" },
-        { "id": "test_pack_03", "name": "Test 03", "filename": "test_pack_03.png" }
+        { "id": "tiny_wins_01", "name": "Tiny Wins 01", "filename": "tiny_wins_01.png" },
+        { "id": "tiny_wins_02", "name": "Tiny Wins 02", "filename": "tiny_wins_02.png" },
+        { "id": "tiny_wins_03", "name": "Tiny Wins 03", "filename": "tiny_wins_03.png" }
       ]
     }
   ]
