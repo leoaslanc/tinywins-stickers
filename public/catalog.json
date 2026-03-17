@@ -6,7 +6,7 @@
       "name": "Test Pack",
       "stickerCount": 3,
       "sizeBytes": 3094125,
-      "baseUrl": "https://tinywins-stickers.vercel.app/stickers/test_pack",
+      "baseUrl": "https://tinywins-sticker.vercel.app/stickers/test_pack",
       "stickers": [
         { "id": "test_pack_01", "name": "Test 01", "filename": "test_pack_01.png" },
         { "id": "test_pack_02", "name": "Test 02", "filename": "test_pack_02.png" },

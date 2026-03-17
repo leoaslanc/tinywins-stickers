@@ -7,7 +7,7 @@ A static sticker catalog and image host for the Tiny Wins mobile app. Deployed t
 Once deployed, the catalog is available at:
 
 ```
-https://tinywins-stickers.vercel.app/catalog.json
+https://tinywins-sticker.vercel.app/catalog.json
 ```
 
 ## Project Structure
@@ -36,7 +36,7 @@ tinywins-stickers/
      "name": "Pack Name",
      "stickerCount": 3,
      "sizeBytes": 123456,
-     "baseUrl": "https://tinywins-stickers.vercel.app/stickers/pack_id",
+     "baseUrl": "https://tinywins-sticker.vercel.app/stickers/pack_id",
      "stickers": [
        { "id": "pack_id_01", "name": "Sticker 01", "filename": "pack_id_01.png" }
      ]
